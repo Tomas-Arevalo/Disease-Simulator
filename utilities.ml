@@ -1,9 +1,5 @@
-(*
-                          CS 51 Problem Set
-                 Simulation of an Infectious Disease
 
-                          General utilities
- *)
+(* General utilities *)
 
 open Config ;;
 

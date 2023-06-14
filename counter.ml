@@ -1,9 +1,5 @@
-(*
-                          CS 51 Problem Set
-                 Simulation of an Infectious Disease
 
-                     Increment/Decrement Counters
- *)
+(* Increment/Decrement Counters *)
 
 class type counter_type =
   object

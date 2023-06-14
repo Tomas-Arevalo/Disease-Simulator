@@ -1,10 +1,3 @@
-(*
-                          CS 51 Problem Set
-                 Simulation of an Infectious Disease
-
-                     Parameters of the simulation
- *)
-                 
 (*....................................................................
                      Parameters of the simulation
  *)

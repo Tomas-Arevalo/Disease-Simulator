@@ -1,9 +1,3 @@
-(*
-                          CS 51 Problem Set
-                 Simulation of an Infectious Disease
-
-                      People in the simulation
- *)
 
 module G = Graphics ;;
 open Config ;;

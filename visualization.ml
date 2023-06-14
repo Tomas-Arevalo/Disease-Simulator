@@ -1,9 +1,5 @@
-(*
-                          CS 51 Problem Set
-                 Simulation of an Infectious Disease
 
-                      Visualizing the simulation
- *)
+(* Visualizing the simulation *)
 
 open Config ;;
 module Stat = Statistics ;;

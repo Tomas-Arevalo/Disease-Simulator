@@ -1,20 +1,3 @@
-(*
-                          CS 51 Problem Set
-                 Simulation of an Infectious Disease
-
-                  A registry of things in the world
-
-Allows for storing a set of objects allowing for
-
--- registering and deregistering objects;
--- obtaining a list of all currently registered objects; and
--- obtaining a list of all currently registered objects within a
-   certain distance from a given object.
-
-Stores the registered objects in two data structures, a `Set` for easy
-access to the full set of objects and a 2D array by location allowing
-for more efficient access to the neighboring objects. *)
-
 open Array ;;
 open CS51Utils ;;
 

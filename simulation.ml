@@ -1,9 +1,5 @@
-(*
-                          CS 51 Problem Set
-                 Simulation of an Infectious Disease
 
-                        The simulation driver
- *)
+(* The simulation driver *)
 
 open Config ;;
 open Registry ;;

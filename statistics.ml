@@ -1,12 +1,5 @@
-(*
-                          CS 51 Problem Set
-                 Simulation of an Infectious Disease
 
-                          Statistics-keeping
-
-  We keep a set of counters to track the total number of people in
-  various states with respect to the infection.
- *)
+(* Statistis Keeping *)
 
 open Counter ;;
   
